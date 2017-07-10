@@ -1,2 +1,5 @@
 # SW-Tools-Sum17-Edwards
 Coursework for Software Tools
+# Rephael Edwards
+
+<img src="https://github.com/bassref/Spatial-DS-Edwards/blob/master/Reph2.png" width="150" height="200"/>
